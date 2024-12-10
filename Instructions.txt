@@ -1,0 +1,17 @@
+python decoder.py --interactive
+
+
+python decoder.py --dataset mnist --spike_format raster
+
+-a or --activate
+
+
+
+What is a raster plot?
+A raster plot is a type of graph used mainly in neuroscience 
+to visualize the timing of spikes (or events) from one or multiple 
+neurons over time. Each row in a raster plot typically represents 
+a different neuron or trial, and each dot or tick mark represents 
+an event or spike occurring at a specific time. This type of plot 
+helps researchers understand the temporal patterns and synchrony of 
+neural activity.
